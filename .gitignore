@@ -1,2 +1,5 @@
 .DS_Store
 /venv
+source.md
+/tts_outputs
+final_output.mp3
